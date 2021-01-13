@@ -9,3 +9,4 @@
 ## Applications
 
 * Hoare Logic & C http://www.toves.org/books/axiom/
+* De Morgans 3/4s https://math.stackexchange.com/questions/120187/do-de-morgans-laws-hold-in-propositional-intuitionistic-logic
