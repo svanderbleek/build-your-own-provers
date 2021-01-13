@@ -6,6 +6,11 @@
 * http://jens-otten.de/provers.html
 * Program = Proof https://www.lix.polytechnique.fr/Labo/Samuel.Mimram/teaching/INF551/course.pdf
 
+## Implementations
+
+* https://boarders.github.io/posts/locally-nameless/
+* http://augustss.blogspot.com/2007/10/simpler-easier-in-recent-paper-simply.html
+
 ## Applications
 
 * Hoare Logic & C http://www.toves.org/books/axiom/
