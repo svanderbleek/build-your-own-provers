@@ -14,6 +14,11 @@
 * http://augustss.blogspot.com/2007/10/simpler-easier-in-recent-paper-simply.html
 * Binders https://www.schoolofhaskell.com/user/edwardk/bound
 
+## Declarative Style
+
+* https://github.com/andrew-bedford/coqatoo
+* https://alectryon-paper.github.io/
+
 ## Applications
 
 * Hoare Logic & C http://www.toves.org/books/axiom/
