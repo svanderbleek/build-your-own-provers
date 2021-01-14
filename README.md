@@ -28,3 +28,4 @@
 * Structured Calculation = Natural Deduction http://users.abo.fi/jwright/schoolmath/papers/tucs65.pdf
 * Arithmetic Expressions and Programming Language Semantics http://www.cs.nott.ac.uk/~pszgmh/123.pdf
 * PL Foundations in Agda https://plfa.github.io/
+* Tactics as code generation https://reasonablypolymorphic.com/blog/towards-tactics/
