@@ -25,3 +25,4 @@
 * Hoare Logic & C http://www.toves.org/books/axiom/
 * De Morgans 3/4s https://math.stackexchange.com/questions/120187/do-de-morgans-laws-hold-in-propositional-intuitionistic-logic explained by https://wiki.haskell.org/Curry-Howard-Lambek_correspondence negation proofs as programs
 * Structured Calculation = Natural Deduction http://users.abo.fi/jwright/schoolmath/papers/tucs65.pdf
+* Arithmetic Expressions and Programming Language Semantics http://www.cs.nott.ac.uk/~pszgmh/123.pdf
