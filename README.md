@@ -11,6 +11,7 @@
 
 * http://www.cse.unsw.edu.au/~cs2111/20T1/outline.html
 * https://www.cs.utexas.edu/~isil/cs389L
+* https://cs.uwaterloo.ca/~plragde/842/
 
 ## Implementations
 
