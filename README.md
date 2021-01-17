@@ -36,3 +36,4 @@
 * Arithmetic Expressions and Programming Language Semantics http://www.cs.nott.ac.uk/~pszgmh/123.pdf
 * PL Foundations in Agda https://plfa.github.io/
 * Tactics as code generation https://reasonablypolymorphic.com/blog/towards-tactics/
+* Functional programming, inductive data types and proofs https://www.irif.fr/~eleph/Enseignement/c-tbilisi.pdf
