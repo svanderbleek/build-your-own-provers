@@ -38,3 +38,4 @@
 * Tactics as code generation https://reasonablypolymorphic.com/blog/towards-tactics/
 * Functional programming, inductive data types and proofs https://www.irif.fr/~eleph/Enseignement/c-tbilisi.pdf
 * Iris https://plv.csail.mit.edu/blog/iris-intro.html#iris-intro
+* formalizing turing machines http://cs.unibo.it/~asperti/SLIDES/wollic_talk.pdf
