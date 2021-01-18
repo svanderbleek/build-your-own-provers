@@ -39,3 +39,11 @@
 * Functional programming, inductive data types and proofs https://www.irif.fr/~eleph/Enseignement/c-tbilisi.pdf
 * Iris https://plv.csail.mit.edu/blog/iris-intro.html#iris-intro
 * formalizing turing machines http://cs.unibo.it/~asperti/SLIDES/wollic_talk.pdf
+
+## What do Turing Machines prove?
+
+* A Small Minimal Aperiodic Reversible Turing Machine https://hal.archives-ouvertes.fr/hal-00975244/document
+* Turing machines and effective computability https://www.cs.cornell.edu/courses/cs4820/2014sp/notes/kozen-computability-sp13.pdf
+* Less Is More in the Fifties: Encounters between Logical Minimalism and Computer Design during the 1950s
+* On the Minimum Logical Complexity Required for a General Purpose Computer
+* A short history of small machines
