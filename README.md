@@ -9,9 +9,10 @@
 
 ## Courses
 
-* http://www.cse.unsw.edu.au/~cs2111/20T1/outline.html
-* https://www.cs.utexas.edu/~isil/cs389L
-* https://cs.uwaterloo.ca/~plragde/842/
+* System Modeling and Design http://www.cse.unsw.edu.au/~cs2111/20T1/outline.html
+* Automated Logical Reasoning https://www.cs.utexas.edu/~isil/cs389L
+* Dependent Types and Software Verification https://cs.uwaterloo.ca/~plragde/842/
+* Constructive Logic http://www.cs.cmu.edu/~crary/317-f18/
 
 ## Implementations
 
