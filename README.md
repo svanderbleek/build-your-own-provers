@@ -23,6 +23,7 @@
 * https://tiarkrompf.github.io/notes/?/dependent-types/
 * Teaching ATP Pyres https://link.springer.com/chapter/10.1007/978-3-030-51054-1_9 https://github.com/eprover/PyRes
 * https://ivanbakel.github.io/posts/theorem-proving-in-haskell/
+* Lollibot, Twelf, Tutch http://www.cs.cmu.edu/~fp/courses/15317-f09/software.html
 
 ## Declarative Style
 
