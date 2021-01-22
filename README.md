@@ -13,6 +13,7 @@
 * Automated Logical Reasoning https://www.cs.utexas.edu/~isil/cs389L
 * Dependent Types and Software Verification https://cs.uwaterloo.ca/~plragde/842/
 * Constructive Logic http://www.cs.cmu.edu/~crary/317-f18/
+* nand2tetris https://www.nand2tetris.org/
 
 ## Implementations
 
